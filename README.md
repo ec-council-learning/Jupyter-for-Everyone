@@ -53,4 +53,4 @@ No prior data science experience is assumed — the course starts with the Jupyt
 See [LICENSE](LICENSE).
 
 ---
-Originally created as "Jupyter for Everyone" by EC-Council.
+Course page: [Jupyter Notebook for Everyone](https://coderedpro.com/products/jupyter-notebook-for-everyone)
